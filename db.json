@@ -1,0 +1,91 @@
+    {
+    "profesores": [
+        {
+        "nombre": "Sergio",
+        "apellido": "QUispe",
+        "Materias": [
+            {
+            "nombre": "NodeJS"
+            },
+            {
+            "nombre": "JavaScript"
+            },
+            {
+            "nombre": "HTML"
+            }
+        ],
+        "id": "47f0"
+        },
+        {
+        "id": "0b3c"
+        },
+        {
+        "id": "ea62",
+        "nombre": "kazma",
+        "apellido": "dev",
+        "Materias": [
+            {
+            "nombre": "JavaScript"
+            },
+            {
+            "nombre": "HTML"
+            },
+            {
+            "nombre": "Matematicas"
+            }
+        ]
+        }
+    ],
+    "Alumnos": [
+        {
+        "nombre": "Maria",
+        "apellido": "Salazar",
+        "promedio": 15,
+        "id": "f9c5"
+        },
+        {
+        "nombre": "Carlos",
+        "apellido": "Dimaria",
+        "promedio": 15,
+        "id": "fcc3"
+        },
+        {
+        "id": "660f",
+        "nombre": "Super",
+        "apellido": "Man",
+        "promedio": 21
+        },
+        {
+        "id": "63b3",
+        "nombre": "CArlos",
+        "apellido": "Belcars",
+        "promedio": 14
+        },
+        {
+        "id": "22d3",
+        "nombre": "Super",
+        "apellido": "Man",
+        "promedio": 10
+        }
+    ],
+    "cursos": [
+        {
+        "nombre": "NodeJS",
+        "duracion": 7,
+        "dificultad": "Intermedia",
+        "id": "f538"
+        },
+        {
+        "nombre": "JavaScript",
+        "duracion": 8,
+        "dificultad": "Intermedia",
+        "id": "423a"
+        },
+        {
+        "nombre": "HTML",
+        "duracion": 9,
+        "dificultad": "Intermedia",
+        "id": "d7b3"
+        }
+    ]
+    }

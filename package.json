@@ -1,0 +1,14 @@
+{
+  "name": "json_server",
+  "version": "0.0.1",
+  "description": "haremos un servidor pequeño con informacion",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "kazama20003",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
